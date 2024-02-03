@@ -16,13 +16,14 @@
         letter-spacing: 1px;
         font-weight: 900;
         text-transform: uppercase;
+        margin-top: 15px;
         color: $dark;
     }
 
 }
 .total-budget-section{
     display: flex;
-    height: 125px;
+    height: 200px;
     background: $dark;
 
     justify-content: center;
